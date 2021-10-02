@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe ans Ultimate Tic-TacToe
+Tic-Tac-Toe and Ultimate Tic-TacToe
